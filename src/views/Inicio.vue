@@ -7,34 +7,144 @@ section
     .titulo__template--a.mb-4
       span.h6 1. Presentación
 
-    p En Colombia, los ataques mediante agentes químicos son un delito y una de las formas en las que se manifiesta en el país las violencias de género. A pesar de los esfuerzos estatales, esta violencia sigue presentándose y con frecuencia, las víctimas son atendidas de forma inadecuada en las diferentes instituciones responsables del restablecimiento de sus derechos (sectores salud, justicia y protección)
-      br
-      br
-      | Por tal motivo, el presente curso hace parte de las acciones que el Ministerio de Salud y Protección Social está realizando para garantizar que todas las víctimas de las diferentes manifestaciones de las violencias de género reciban una atención integral, oportuna y de calidad que permita su recuperación. Su principal objetivo es brindar a los equipos de salud información clara sobre las particularidades de las agresiones por agentes químicos, así como las acciones que deben implementarse en diferentes momentos para reducir el daño y tratar las afectaciones a la salud.
+    p.mb-4 Apreciado aprendiz es un gusto darle la bienvenida a este programa e invitarlo a partir de ahora a apropiar conocimientos que le permiten validar la trazabilidad de un producto en el marco de las Buenas Prácticas Agrícolas (BPA).
+
+    p.mb-4 En este curso desarrolla habilidades y competencias para la implementación de las Buenas Prácticas Agrícolas (BPA) en las unidades productivas, integrando aspectos de calidad, inocuidad y salud y, seguridad en el trabajo.
+
+    p Las Buenas Prácticas Agrícolas (BPA) son un conjunto de principios, normas y recomendaciones técnicas aplicables a la producción, procesamiento y transporte de alimentos.  Su aplicación en las unidades productivas es fundamental para fortalecer los procesos de producción agrícola de calidad y mejorar la competitividad del sector.
+
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
       span.h6 2. Justificación<br>del programa
 
-    p Con el propósito de garantizar que las víctimas de agresiones por agentes químicos reciban en cualquier institución de salud una atención oportuna, pertinente y con racionalidad científica, de manera que se logre reducir el daño físico y mental, así como, que se desarrollen las acciones que les garantice el acceso a la justicia, a la protección y al restablecimiento de los derechos afectados, se dispone del Protocolo de Atención Integral en Urgencias a Víctimas de Ataque con Agentes Químicos, el cual debe ser observado y aplicado por los prestadores de servicios de salud y demás agentes que tengan contacto primario con las víctimas. El Gobierno Nacional se encargará de garantizar la capacitación del personal estatal que pueda tener contacto primario con una víctima de ataque con sustancias o agentes químicos corrosivos, a fin de darle la atención correspondiente.
+    p.mb-4 Colombia es un país con una amplia vocación agrícola, el cual según la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO, 2019) es uno de los siete países con potencial para ser despensa agrícola del mundo. A nivel nacional, durante el primer trimestre del año 2020 la agricultura aportó 6,8% al Producto Interno Bruto, ubicándolo por encima de sectores como los servicios públicos con 3,4%, información y comunicaciones 1,4% y actividades financieras 2,1%, entre otros. Estos datos ratifican el potencial del sector agrícola para aportar al crecimiento económico y la generación de empleo nacional.
+
+    p.mb-4 A nivel internacional, Colombia tiene una gran posibilidad de aumentar sus exportaciones y abrir nuevos mercados, principalmente en aquellos cultivos propios del trópico; sin embargo, los agricultores tienen dificultades para ingresar a dichos mercados debido a que, en la mayoría de los casos, no cumplen con todas las normas del país de destino. Por lo anterior, los productores agrícolas deben asumir los desafíos de la agricultura moderna y adoptar técnicas y prácticas que les permita generar productos que cumplan con los estándares del mercado internacional, lo cual es posible al implementar las Buenas Prácticas Agrícolas en las unidades productivas.
+
+    p.mb-4 En virtud de lo anterior, es evidente que se requiere capacitar en la normatividad de Buenas Prácticas Agrícolas, reglamentada por el Instituto Colombiano Agropecuario ICA, a profesionales que trabajan y aportan al sector primario, para que se gestionen e inicien procesos de implementación de las normas en los predios de los agricultores interesados, apoyados por los implementadores capacitados, conducentes a obtener la certificación. 
+
+    p En respuesta a las necesidades y retos del sector productivo el SENA ofrece el programa de formación en Implementación de buenas prácticas en la producción agrícola, que habilita al aprendiz certificado a realizar el acompañamiento a los productores en todas las etapas de implementación de las Buenas Prácticas Agrícolas en sus predios y poder así, lograr la certificación.
+
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
-      span.h6 3. Población<br>objetivo
+      span.h6 3. Competencias<br>a desarrollar
 
-    p El curso está dirigido a profesionales, tecnólogos y técnicos en salud que requieren conocer elementos conceptuales y normativos para implementar procesos y procedimientos operativos básicos que garanticen una atención en salud integral, oportuna y de calidad a las víctimas de ataque con agentes químicos.
+    p  
+      span.colorText01
+        strong 220601041. 
+      | Implementar sistemas de gestión según normativa y requerimientos técnicos.
+  
+  .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
+    .titulo__template--a.mb-4
+      span.h6 4. Perfil<br>de ingreso
+
+    p.mb-4.colorText01
+      strong Opción 1
+    
+    p.mb-2 Título de profesional universitario en núcleos básicos de conocimiento de Agronomía y afines.
+    
+    ul.lista-ul.mb-4
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero agrónomo.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero agronómico.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero agrícola.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero agropecuario.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero agroforestal.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero forestal.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero en producción agropecuaria.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero agroecológico.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Agrónomo.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Agroecólogo.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Administrador de empresas agropecuarias.
+    
+    p.mb-4.colorText01
+      strong Opción 2
+    
+    p.mb-2 Título tecnólogo en:
+    
+    ul.lista-ul
+      li.d-flex
+        i.fas.fa-angle-right
+        | Gestión de empresas agrícolas.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Producción agrícola.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Tecnólogo en administración de empresas agropecuarias.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Tecnólogo en gestión de empresas agropecuarias y programas afines.
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
-      span.h6 3. Estrategia<br>metodológica
+      span.h6 5. Perfil<br>de egreso
+    
+    p.mb-2 El implementador en BPA es competente para:
+    
+    ul.lista-ul.mb-4
+      li
+        i.fas.fa-tractor
+        | Apoyar las actividades que promuevan la implementación de las Buenas Prácticas Agrícolas y los referentes normativos, conducentes a obtener la certificación.
+      li
+        i.fas.fa-tractor
+        | Documentar los procesos necesarios para la implementación, mantenimiento y mejora del sistema de gestión.
+      li
+        i.fas.fa-tractor
+        | Demostrar excelentes relaciones interpersonales, tolerancia, transparencia, solidaridad y respeto, fundamentado en el trabajo colaborativo, potenciándose como un ciudadano libre pensador, con capacidad crítica, solidario, emprendedor y respetuoso de los demás ciudadanos, además promoverá el cuidado y protección del ambiente en concordancia con la permanentemente innovación y cambios tecnológicos del sector rural, ajustándose a las necesidades del sector empresarial y de los trabajadores.
 
-    p Centrada en la construcción de la autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las tecnologías de la información y la comunicación, integradas en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
-      br
-      br
-      | Las estrategias didácticas integradoras están basadas en situaciones reales que le permitirán poner en marcha los contenidos conceptuales y procedimentales, aplicando sus conocimientos y habilidades para resolver un problema, frente a la atención integral de urgencias a víctimas de ataque con agentes químicos.
-      br
-      br
-      | Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
+        
+      
+
+  .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
+    .titulo__template--a.mb-4
+      span.h6 6. Estrategia<br>metodológica
+
+    p.mb-4 Centrada en la construcción de la autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en el utilización de las Tecnologías de la Información y la Comunicación (TIC), integradas en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias. 
+
+    p.mb-4 Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento.
+
+    .row.g-4
+      .col-6.col-sm-3
+        figure.mb-4
+          img.w-75.mx-auto(src='@/assets/curso/01.svg', alt='El instructor - tutor')
+        h6.text-center El instructor - tutor
+      .col-6.col-sm-3
+        figure.mb-4
+          img.w-75.mx-auto(src='@/assets/curso/02.svg', alt='El instructor - tutor')
+        h6.text-center El entorno
+      .col-6.col-sm-3
+        figure.mb-4
+          img.w-75.mx-auto(src='@/assets/curso/03.svg', alt='El instructor - tutor')
+        h6.text-center Las TIC
+      .col-6.col-sm-3
+        figure.mb-4
+          img.w-75.mx-auto(src='@/assets/curso/04.svg', alt='El instructor - tutor')
+        h6.text-center El trabajo colaborativo
+
 
 
   //- Créditos

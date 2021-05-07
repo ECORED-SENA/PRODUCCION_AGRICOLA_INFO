@@ -1,9 +1,9 @@
 export const global = {
   nombrePrograma:
-    'Atención integral de urgencias a víctimas de ataque con agentes químicos',
-  codigo: '33110258',
-  horas: 48,
-  semanas: 4,
+    'Implementación de buenas prácticas en la producción agrícola',
+  codigo: '72312148',
+  horas: 144,
+  semanas: '3 meses',
   modalidad: 'virtual',
   requisitosIngrso: [
     'Solicitud de las Instituciones del Sistema General de Seguridad Social en Salud.',
