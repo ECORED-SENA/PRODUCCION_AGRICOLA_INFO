@@ -263,62 +263,48 @@ export const creditos = {
   },
   contenidoInstruccional: [
     {
-      nombre: 'Gloria Matilde Lee Mejía',
-      cargo: 'Responsable del equipo',
+      nombre: 'Rafael Neftalí Lizcano Reyes',
+      cargo: 'Asesor metodológico y pedagógico',
+      centro: 'Centro Industrial Del Diseño Y La Manufactura',
+      regional: 'Regional Santander',
+    },
+    {
+      nombre: 'Tania Yaneth Ramírez Benítez',
+      cargo: 'Soporte organizacional',
       centro: 'Centro de Comercio y Servicios',
       regional: 'Regional Tolima',
     },
     {
-      nombre: 'Rafael Neftalí Lizcano Reyes',
-      cargo: 'Asesor pedagógico',
-      centro: 'Centro Industrial del Diseño y la Manufactura',
-      regional: 'Regional Santander',
+      nombre: 'Claudia Patricia Sánchez Peñaranda',
+      cargo: 'Instructora',
+      centro: 'AgroSENA',
     },
     {
-      nombre: 'Astrid Lili Puerta',
-      cargo: 'Experta temática',
-      centro: 'Centro Agropecuario de Buga',
-      regional: 'Regional valle',
+      nombre: 'Fredy Orlando Ibáñez Morales',
+      cargo: 'Instructor',
+      centro: 'Agroambiental',
     },
     {
-      nombre: 'Javier Enrique Santana',
-      cargo: 'Experto temático',
+      nombre: 'Yanet Bolaños Botina',
+      cargo: 'Instructora',
+      centro: 'Agroambiental',
+    },
+    {
+      nombre: 'Alix Cecilia Chinchilla Rueda',
+      cargo: 'Diseñadora instruccional',
       centro: 'Centro de Gestión Industrial',
-      regional: 'Regional Distrito Capital',
     },
     {
-      nombre: 'Michael Andrés Cortés Caro',
-      cargo: 'Experto temático',
-      centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-    },
-    {
-      nombre: 'Mauricio Jiménez Fajardo',
-      cargo: 'Experto temático',
-      centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-    },
-    {
-      nombre: 'Manuel Alejandro Garzón Cárdenas',
-      cargo: 'Experto temático',
-      centro: 'Deutsche Gesellschaft für',
-      regional: 'Internationale Zusammenarbeit (GIZ)',
-    },
-    {
-      nombre: 'Liliana Victoria Morales Gualdrón',
-      cargo: 'Diseñador instruccional',
-      centro: 'Centro para la Industria y la Comunicación Gráfica',
-      regional: 'Regional Distrito Capital',
-    },
-    {
-      nombre: 'Carlos Andrés Rodríguez',
-      cargo: 'Evaluador instruccional',
-      centro: 'Centro de Diseño y Metrología',
-      regional: 'Regional Distrito Capital',
-    },
-    {
-      nombre: 'Julieth Paola Vital López',
-      cargo: 'Revisora de estilo',
+      nombre: 'Julia Isabel Roberto',
+      cargo: 'Diseñadora y evaluadora instruccional',
       centro: 'Centro para la Industria de la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
+    },
+    {
+      nombre: 'María Isabel Román Rueda',
+      cargo: 'Revisora de estilo',
+      centro: 'Centro Industrial Del Diseño Y La Manufactura',
+      regional: 'Regional Santander',
     },
   ],
   desarrolloProducto: [
@@ -328,14 +314,14 @@ export const creditos = {
     },
     {
       nombre: 'Leyson Fabian Castaño Perez',
-      cargo: 'Integración de recursos y pruebas',
+      cargo: 'Soporte organizacional',
     },
     {
-      nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
+      nombre: ['María Natalia Maldonado Delgado', 'persona prod audiovisual'],
       cargo: 'Diseño web y Producción Audiovisual',
     },
     {
-      nombre: 'Edward Leonardo Pico Cabra',
+      nombre: 'Luis Gabriel Urueta Alvarez',
       cargo: 'Desarrollo Front-End',
     },
     {
@@ -345,8 +331,8 @@ export const creditos = {
   ],
   gestoresRepositorio: [
     {
-      nombre: 'Brayan Stiven Pinto Diaz',
-      cargo: ['Desarrollo front-end', 'Validación de recursos'],
+      nombre: 'Milady Tatiana Villamil Castellanos',
+      cargo: 'Validación de recursos',
       centro: 'Centro de comercio y servicios',
       regional: 'Regional Tolima',
     },

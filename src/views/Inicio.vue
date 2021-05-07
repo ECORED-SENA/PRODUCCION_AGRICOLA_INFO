@@ -2,7 +2,6 @@
 section
   BannerPrincipal.mb-5
 
-
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
       span.h6 1. Presentación
@@ -114,10 +113,7 @@ section
         | Documentar los procesos necesarios para la implementación, mantenimiento y mejora del sistema de gestión.
       li
         i.fas.fa-tractor
-        | Demostrar excelentes relaciones interpersonales, tolerancia, transparencia, solidaridad y respeto, fundamentado en el trabajo colaborativo, potenciándose como un ciudadano libre pensador, con capacidad crítica, solidario, emprendedor y respetuoso de los demás ciudadanos, además promoverá el cuidado y protección del ambiente en concordancia con la permanentemente innovación y cambios tecnológicos del sector rural, ajustándose a las necesidades del sector empresarial y de los trabajadores.
-
-        
-      
+        | Demostrar excelentes relaciones interpersonales, tolerancia, transparencia, solidaridad y respeto, fundamentado en el trabajo colaborativo, potenciándose como un ciudadano libre pensador, con capacidad crítica, solidario, emprendedor y respetuoso de los demás ciudadanos, además promoverá el cuidado y protección del ambiente en concordancia con la permanentemente innovación y cambios tecnológicos del sector rural, ajustándose a las necesidades del sector empresarial y de los trabajadores.    
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
@@ -144,8 +140,6 @@ section
         figure.mb-4
           img.w-75.mx-auto(src='@/assets/curso/04.svg', alt='El instructor - tutor')
         h6.text-center El trabajo colaborativo
-
-
 
   //- Créditos
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.mb-5
@@ -184,43 +178,3 @@ export default {
   },
 }
 </script>
-
-<style lang="sass" scoped>
-.resultados-aprendizaje
-  &__item
-    margin-bottom: 20px
-    &:last-child
-      margin-bottom: 0
-
-.desarrollo-contenidos
-  &__item
-    display: flex
-    align-items: center
-    justify-content: space-between
-    margin-bottom: 25px
-    padding: 5px
-    border-radius: $base-border-radius
-
-    &__texto
-      display: flex
-      align-items: center
-
-    &__icono
-      display: block
-      background-color: $color-sistema-g
-      font-size: 20px
-      font-weight: $base-black-font-weight
-      text-align: center
-      padding: 10px
-      line-height: 1em
-      width: 40px
-      margin-right: 15px
-
-    &:last-child
-      margin-bottom: 0
-
-    &:hover
-      background-color: $color-sistema-g
-      font-weight: $base-black-font-weight
-      color: $color-sistema-a
-</style>
