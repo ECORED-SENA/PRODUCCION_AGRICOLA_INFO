@@ -123,23 +123,27 @@ section
 
     p.mb-4 Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento.
 
-    .row.g-4
-      .col-6.col-sm-3
-        figure.mb-4
+    .row.g-4.justify-content-center
+      .col-5.col-sm-3.col-md-2
+        figure.mb-2
           img.w-75.mx-auto(src='@/assets/curso/01.svg', alt='El instructor - tutor')
-        h6.text-center El instructor - tutor
-      .col-6.col-sm-3
-        figure.mb-4
+        p.text-center
+          strong El instructor - tutor
+      .col-5.col-sm-3.col-md-2
+        figure.mb-2
           img.w-75.mx-auto(src='@/assets/curso/02.svg', alt='El instructor - tutor')
-        h6.text-center El entorno
-      .col-6.col-sm-3
-        figure.mb-4
+        p.text-center
+          strong El entorno
+      .col-5.col-sm-3.col-md-2
+        figure.mb-2
           img.w-75.mx-auto(src='@/assets/curso/03.svg', alt='El instructor - tutor')
-        h6.text-center Las TIC
-      .col-6.col-sm-3
-        figure.mb-4
+        p.text-center
+          strong Las TIC
+      .col-5.col-sm-3.col-md-2
+        figure.mb-2
           img.w-75.mx-auto(src='@/assets/curso/04.svg', alt='El instructor - tutor')
-        h6.text-center El trabajo colaborativo
+        p.text-center
+          strong El trabajo colaborativo
 
   //- Créditos
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.mb-5
