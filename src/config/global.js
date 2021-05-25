@@ -1,9 +1,10 @@
 export const global = {
-  nombrePrograma: 'Marketing digital para el sistema moda',
-  codigo: '135329',
-  horas: 2208,
-  semanas: '15 meses',
-  modalidad: 'Virtual',
+  nombrePrograma:
+    'Implementación de buenas prácticas en la producción agrícola',
+  codigo: '72312148',
+  horas: 144,
+  semanas: '3 meses',
+  modalidad: 'virtual',
   requisitosIngrso: [
     'Solicitud de las Instituciones del Sistema General de Seguridad Social en Salud.',
     'Profesionales, tecnólogos y técnicos de salud que brindan atención a las víctimas de ataque con agentes químicos.',

@@ -6,90 +6,122 @@ section
     .titulo__template--a.mb-4
       span.h6 1. Presentación
 
-    p Apreciado aprendiz, bienvenido al curso Marketing digital para el sistema moda, una experiencia de aprendizaje que se inmiscuye en el mundo comercial, comunicativo y de las formas de vestir. Con la intención de reconocer el contexto de aprendizaje, observe el siguiente video.
+    p.mb-4 Apreciado aprendiz es un gusto darle la bienvenida a este programa e invitarlo a partir de ahora a apropiar conocimientos que le permiten validar la trazabilidad de un producto en el marco de las Buenas Prácticas Agrícolas (BPA).
+
+    p.mb-4 En este curso desarrolla habilidades y competencias para la implementación de las Buenas Prácticas Agrícolas (BPA) en las unidades productivas, integrando aspectos de calidad, inocuidad y salud y, seguridad en el trabajo.
+
+    p Las Buenas Prácticas Agrícolas (BPA) son un conjunto de principios, normas y recomendaciones técnicas aplicables a la producción, procesamiento y transporte de alimentos.  Su aplicación en las unidades productivas es fundamental para fortalecer los procesos de producción agrícola de calidad y mejorar la competitividad del sector.
 
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
       span.h6 2. Justificación<br>del programa
 
-    p.mb-4 Las empresas del sector moda, como industria que crece día a día, requieren de una constante actualización, con el fin de adaptar sus procesos a los retos que implican los nuevos tiempos. Por ello, se ha hecho necesario buscar diversas alternativas para generar desarrollo con los elementos que se tiene al alcance.
+    p.mb-4 Colombia es un país con una amplia vocación agrícola, el cual según la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO, 2019) es uno de los siete países con potencial para ser despensa agrícola del mundo. A nivel nacional, durante el primer trimestre del año 2020 la agricultura aportó 6,8% al Producto Interno Bruto, ubicándolo por encima de sectores como los servicios públicos con 3,4%, información y comunicaciones 1,4% y actividades financieras 2,1%, entre otros. Estos datos ratifican el potencial del sector agrícola para aportar al crecimiento económico y la generación de empleo nacional.
 
-    p.mb-4 Con la convergencia de medios en esta era digital y la rápida evolución y obsolescencia de la tecnología, se han generado nuevas maneras de concebir, crear, distribuir, comercializar y consumir los contenidos y productos propios de este sector. La interactividad que actualmente existe entre el público y los contenidos, que en los medios análogos tradicionales no se manifestaba de manera tan libre e inmediata, ahora, en los medios digitales, es una nueva posibilidad que las industrias creativas están llamadas a integrar en sus diferentes procesos.
+    p.mb-4 A nivel internacional, Colombia tiene una gran posibilidad de aumentar sus exportaciones y abrir nuevos mercados, principalmente en aquellos cultivos propios del trópico; sin embargo, los agricultores tienen dificultades para ingresar a dichos mercados debido a que, en la mayoría de los casos, no cumplen con todas las normas del país de destino. Por lo anterior, los productores agrícolas deben asumir los desafíos de la agricultura moderna y adoptar técnicas y prácticas que les permita generar productos que cumplan con los estándares del mercado internacional, lo cual es posible al implementar las Buenas Prácticas Agrícolas en las unidades productivas.
 
-    p Con el fin de mejorar la competitividad de la industria nacional a través de un mejor posicionamiento en el mercado, es como se hace necesaria la formación en la incorporación, uso y seguimiento del marketing digital, pensado desde el contexto empresarial, el cual será la herramienta para generar valor y, a su vez, transformación social y productiva.
+    p.mb-4 En virtud de lo anterior, es evidente que se requiere capacitar en la normatividad de Buenas Prácticas Agrícolas, reglamentada por el Instituto Colombiano Agropecuario ICA, a profesionales que trabajan y aportan al sector primario, para que se gestionen e inicien procesos de implementación de las normas en los predios de los agricultores interesados, apoyados por los implementadores capacitados, conducentes a obtener la certificación. 
+
+    p En respuesta a las necesidades y retos del sector productivo el SENA ofrece el programa de formación en Implementación de buenas prácticas en la producción agrícola, que habilita al aprendiz certificado a realizar el acompañamiento a los productores en todas las etapas de implementación de las Buenas Prácticas Agrícolas en sus predios y poder así, lograr la certificación.
 
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
       span.h6 3. Competencias<br>a desarrollar
 
-    ul.lista-ul.mb-4
-      li.d-flex
-        i.fas.fa-angle-right
-        | Aplicar prácticas de protección ambiental, seguridad y salud en el trabajo de acuerdo con las políticas organizacionales y la normatividad vigente.
-      li.d-flex
-        i.fas.fa-angle-right
-        | Atender clientes de acuerdo con procedimiento de servicio y normativa.
-      li.d-flex
-        i.fas.fa-angle-right
-        | Definir alternativas de diseño según necesidades del cliente y condiciones de la empresa.
-      li.d-flex
-        i.fas.fa-angle-right
-        | Desarrollar procesos de comunicación eficaces y efectivos, teniendo en cuenta situaciones de orden social, personal y productivo.
-      li.d-flex
-        i.fas.fa-angle-right
-        | Ejercer derechos fundamentales del trabajo en el marco de la constitución política y los convenios internacionales.
-      li.d-flex
-        i.fas.fa-angle-right
-        | Interactuar en el contexto productivo y social de acuerdo con principios éticos para la construcción de una cultura de paz.
-      li.d-flex
-        i.fas.fa-angle-right
-        | Estructurar la estrategia de mercadeo digital de acuerdo con objetivos de campaña y normativa legal.
-      li.d-flex
-        i.fas.fa-angle-right
-        | Generar hábitos saludables de vida mediante la aplicación de programas de actividad física en los contextos productivos y sociales.
-      li.d-flex
-        i.fas.fa-angle-right
-        | Gestionar procesos propios de la cultura emprendedora y empresarial de acuerdo con el perfil personal y los requerimientos de los contextos productivo y social.
-      li.d-flex
-        i.fas.fa-angle-right
-        | Interactuar en la lengua inglesa de forma oral y escrita, dentro de contextos sociales y laborales, según los criterios establecidos por el Marco Común Europeo de Referencia para las Lenguas (MCERL).
-      li.d-flex
-        i.fas.fa-angle-right
-        | Identificar la dinámica organizacional del SENA.
-      li.d-flex
-        i.fas.fa-angle-right
-        | Utilizar herramientas informáticas de acuerdo con las necesidades de manejo de información.
-
-    //- p
-    //-   span.colorText01
-    //-     strong 220601041.
-    //-   | Implementar sistemas de gestión según normativa y requerimientos técnicos.
-
+    p  
+      span.colorText01
+        strong 220601041. 
+      | Implementar sistemas de gestión según normativa y requerimientos técnicos.
+  
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
       span.h6 4. Perfil<br>de ingreso
 
-    p El programa está dirigido a toda la población que se desenvuelve en el sector moda y tiene la necesidad de desarrollar habilidades para el marketing digital.
-      br
-      | La persona que ingresa al programa debe contar con certificación académica de grado noveno de bachillerato, la edad mínima requerida por la ley es de 14 años. De igual manera, el aspirante se debe desenvolver en los tres saberes: cognitivo (saber saber), aptitudinal, destrezas y habilidades (saber hacer) y personal (saber ser).
-
-
+    p.mb-4.colorText01
+      strong Opción 1
+    
+    p.mb-2 Título de profesional universitario en núcleos básicos de conocimiento de Agronomía y afines.
+    
+    ul.lista-ul.mb-4
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero agrónomo.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero agronómico.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero agrícola.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero agropecuario.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero agroforestal.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero forestal.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero en producción agropecuaria.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ingeniero agroecológico.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Agrónomo.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Agroecólogo.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Administrador de empresas agropecuarias.
+    
+    p.mb-4.colorText01
+      strong Opción 2
+    
+    p.mb-2 Título tecnólogo en:
+    
+    ul.lista-ul
+      li.d-flex
+        i.fas.fa-angle-right
+        | Gestión de empresas agrícolas.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Producción agrícola.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Tecnólogo en administración de empresas agropecuarias.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Tecnólogo en gestión de empresas agropecuarias y programas afines.
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
       span.h6 5. Perfil<br>de egreso
-
-    p El egresado de este programa será responsable de apoyar a los administradores del proceso de marketing digital en el manejo y la construcción de las comunidades online en empresas del sector moda, a partir de la identidad e imagen de la marca, el conocimiento del producto y las relaciones con los clientes y seguidores de las redes sociales, de forma ética y responsable.
+    
+    p.mb-2 El implementador en BPA es competente para:
+    
+    ul.lista-ul.mb-4
+      li
+        i.fas.fa-tractor
+        | Apoyar las actividades que promuevan la implementación de las Buenas Prácticas Agrícolas y los referentes normativos, conducentes a obtener la certificación.
+      li
+        i.fas.fa-tractor
+        | Documentar los procesos necesarios para la implementación, mantenimiento y mejora del sistema de gestión.
+      li
+        i.fas.fa-tractor
+        | Demostrar excelentes relaciones interpersonales, tolerancia, transparencia, solidaridad y respeto, fundamentado en el trabajo colaborativo, potenciándose como un ciudadano libre pensador, con capacidad crítica, solidario, emprendedor y respetuoso de los demás ciudadanos, además promoverá el cuidado y protección del ambiente en concordancia con la permanentemente innovación y cambios tecnológicos del sector rural, ajustándose a las necesidades del sector empresarial y de los trabajadores.    
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
       span.h6 6. Estrategia<br>metodológica
 
-    p.mb-4 La estrategia metodológica está centrada en la construcción de autonomía para garantizar la calidad en el marco de la formación por competencias, el aprendizaje por proyectos, el uso de herramientas digitales y la aplicación de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales. Estas actividades están soportadas en la utilización de las Tecnologías de la Información y la Comunicación (TIC), integradas en ambientes virtuales de aprendizaje, que, en todo caso, recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
+    p.mb-4 Centrada en la construcción de la autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en el utilización de las Tecnologías de la Información y la Comunicación (TIC), integradas en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias. 
 
-    p.mb-4 Igualmente, se estimula de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
+    p.mb-4 Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento.
 
     .row.g-4.justify-content-center
       .col-5.col-sm-3.col-md-2
@@ -121,7 +153,7 @@ section
     CreditosComp
 
   Footer
-
+  
 
 </template>
 <script>
