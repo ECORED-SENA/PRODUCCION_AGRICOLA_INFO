@@ -113,13 +113,13 @@ section
         | Documentar los procesos necesarios para la implementación, mantenimiento y mejora del sistema de gestión.
       li
         i.fas.fa-tractor
-        | Demostrar excelentes relaciones interpersonales, tolerancia, transparencia, solidaridad y respeto, fundamentado en el trabajo colaborativo, potenciándose como un ciudadano libre pensador, con capacidad crítica, solidario, emprendedor y respetuoso de los demás ciudadanos, además promoverá el cuidado y protección del ambiente en concordancia con la permanentemente innovación y cambios tecnológicos del sector rural, ajustándose a las necesidades del sector empresarial y de los trabajadores.    
+        | Demostrar excelentes relaciones interpersonales, tolerancia, transparencia, solidaridad y respeto, fundamentado en el trabajo colaborativo, potenciándose como un ciudadano libre pensador, con capacidad crítica, solidario, emprendedor y respetuoso de los demás ciudadanos, además promoverá el cuidado y protección del ambiente en concordancia con la permanente innovación y cambios tecnológicos del sector rural, ajustándose a las necesidades del sector empresarial y de los trabajadores.    
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
       span.h6 6. Estrategia<br>metodológica
 
-    p.mb-4 Centrada en la construcción de la autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en el utilización de las Tecnologías de la Información y la Comunicación (TIC), integradas en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias. 
+    p.mb-4 Centrada en la construcción de la autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las Tecnologías de la Información y la Comunicación (TIC), integradas en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias. 
 
     p.mb-4 Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento.
 

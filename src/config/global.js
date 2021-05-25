@@ -5,15 +5,15 @@ export const global = {
   horas: 144,
   semanas: '3 meses',
   modalidad: 'virtual',
-  requisitosIngrso: [
-    'Solicitud de las Instituciones del Sistema General de Seguridad Social en Salud.',
-    'Profesionales, tecnólogos y técnicos de salud que brindan atención a las víctimas de ataque con agentes químicos.',
-    'Cumplir con el trámite de selección definido por el Centro de Formación.',
-    'Se requiere que el aprendiz AVA (Ambientes Virtuales de Aprendizaje) tenga dominio de elementos básicos en el manejo de herramientas informáticas y de comunicación como correo electrónico, chat, procesadores de texto, software para presentaciones, navegadores de Internet, y otros sistemas y herramientas tecnológicas necesarias para la formación virtual.',
-  ],
+  //requisitosIngrso: [
+  //  'Solicitud de las Instituciones del Sistema General de Seguridad Social en Salud.',
+  //  'Profesionales, tecnólogos y técnicos de salud que brindan atención a las víctimas de ataque con agentes químicos.',
+  //  'Cumplir con el trámite de selección definido por el Centro de Formación.',
+  //  'Se requiere que el aprendiz AVA (Ambientes Virtuales de Aprendizaje) tenga dominio de elementos básicos en el manejo de herramientas informáticas y de comunicación como correo electrónico, chat, procesadores de texto, software para presentaciones, navegadores de Internet, y otros sistemas y herramientas tecnológicas necesarias para la formación virtual.',
+  //],
   // imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   videoBannerPrincipal:
-    '<iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>',
+    '<iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/5QSlpqOUCSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>',
   fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
 }
 
@@ -265,7 +265,7 @@ export const creditos = {
     {
       nombre: 'Rafael Neftalí Lizcano Reyes',
       cargo: 'Asesor metodológico y pedagógico',
-      centro: 'Centro Industrial Del Diseño Y La Manufactura',
+      centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander',
     },
     {
@@ -303,7 +303,7 @@ export const creditos = {
     {
       nombre: 'María Isabel Román Rueda',
       cargo: 'Revisora de estilo',
-      centro: 'Centro Industrial Del Diseño Y La Manufactura',
+      centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander',
     },
   ],
@@ -317,12 +317,23 @@ export const creditos = {
       cargo: 'Soporte organizacional',
     },
     {
-      nombre: ['María Natalia Maldonado Delgado', 'persona prod audiovisual'],
-      cargo: 'Diseño web y Producción Audiovisual',
+      nombre: [
+        'María Natalia Maldonado Delgado',
+        'Zuleidy Maria Ruiz Torres',
+        'Wilson Arenales ',
+        'Junior Rodriguez',
+        'John Archiniegas',
+        'Carolina Tamayo',
+      ],
+      cargo: 'Diseño web y Producción audiovisual',
     },
     {
       nombre: 'Luis Gabriel Urueta Alvarez',
-      cargo: 'Desarrollo Front-End',
+      cargo: 'Desarrollo front-end',
+    },
+    {
+      nombre: 'Jenny Paola Montillo Gélvez',
+      cargo: 'Validación de diseño y contenido',
     },
     {
       centro: 'Centro Industrial del Diseño y la Manufactura',
@@ -332,7 +343,7 @@ export const creditos = {
   gestoresRepositorio: [
     {
       nombre: 'Milady Tatiana Villamil Castellanos',
-      cargo: 'Validación de recursos',
+      cargo: 'Validación y vinculación en plataforma LMS',
       centro: 'Centro de comercio y servicios',
       regional: 'Regional Tolima',
     },
