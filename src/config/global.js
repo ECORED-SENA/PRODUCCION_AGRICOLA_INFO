@@ -3,7 +3,7 @@ export const global = {
     'Implementación de buenas prácticas en la producción agrícola',
   codigo: '72312148',
   horas: 144,
-  semanas: '3 meses',
+  semanas: '3',
   modalidad: 'virtual',
   //requisitosIngrso: [
   //  'Solicitud de las Instituciones del Sistema General de Seguridad Social en Salud.',
